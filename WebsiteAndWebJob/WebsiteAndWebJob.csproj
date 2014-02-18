@@ -124,13 +124,7 @@
     <Content Include="App_Data\jobs\continuous\Webjob1\Models.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="App_Data\jobs\continuous\Webjob1\Models.pdb">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="App_Data\jobs\continuous\Webjob1\WebJob1.exe">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="App_Data\jobs\continuous\Webjob1\WebJob1.pdb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="App_Data\jobs\continuous\Webjob1\WebJob1.vshost.exe">
